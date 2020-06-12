@@ -1,0 +1,4 @@
+rootProject.name='AndroidAnnotation'
+include ':app'
+include ':annotations'
+include ':processor'
